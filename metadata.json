@@ -1,0 +1,6 @@
+{
+  "name": "Khám Phá Tế Bào Nhân Sơ 3D",
+  "description": "Mô hình 3D tương tác cấu tạo tế bào nhân sơ phục vụ học tập Sinh học THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
